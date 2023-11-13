@@ -1,7 +1,7 @@
 # 👨🏻‍💻 우아한테크코스 5기 백엔드 아카이브
 
 <p align="center">
-    <img src="images/how_woowa_study.png" alt="우아한테크코스는요!" width="40%" />
+    <img src="images/how_woowa_study.png" alt="우아한테크코스는요!" width="60%" />
 </p>
 
 > [우아한테크코스](https://www.woowacourse.io/) 5기 백엔드 활동을 정리하는 저장소
