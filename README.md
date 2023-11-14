@@ -126,7 +126,7 @@
 |:-----------:|:------------------------------------------------------------------------------------------------:| :----------------------------------------------------------: |
 | Tomcat 구현하기 |    [jwp-dashboard-http](https://github.com/Songusika/jwp-dashboard-http/blob/main/README.md)     | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pulls?q=is%3Apr+%EB%B8%94%EB%9E%99%EC%BA%A3+is%3Aclosed+author%3ASongusika) |
 |  MVC 구현하기   |          [jwp-dashboard-mvc](https://github.com/Songusika/jwp-dashboard-mvc/tree/step3)          | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pulls?q=is%3Apr+author%3ASongusika+is%3Aclosed) |
-|  JDBC 구현하기  |       [jwp-subway-path](https://github.com/Songusika/jwp-dashboard-jdbc)       | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pulls?q=is%3Apr+author%3ASongusika+is%3Aclosed) |
+|  JDBC 구현하기  |       [jwp-dashboard-jdbc](https://github.com/Songusika/jwp-dashboard-jdbc)       | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pulls?q=is%3Apr+author%3ASongusika+is%3Aclosed) |
 | 레거시 코드 리팩터링 |    [jwp-refactoring](https://github.com/Songusika/jwp-refactoring/blob/step4/README.md)    | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pulls?q=is%3Apr+author%3ASongusika+is%3Aclosed) |
 
 
